@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Om Prakash Gupta
+- 👋 Hi, I’m Om Prakash Gupta working on dotnet, angular, android native, nativescript for 6 years.
 - 👀 I’m interested in learning new technology and facing new challenges.
 - 🌱 I’m currently learning azure, dotnet core, angular.
 - 💞️ I’m looking to collaborate on azure, angular.

@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Om Prakash Gupta
+- 👀 I’m interested in learning new technology and facing new challenges.
+- 🌱 I’m currently learning azure, dotnet core, angular.
+- 💞️ I’m looking to collaborate on azure, angular.
+- 📫 How to reach me mail.omprakashgupta@gmail.com
